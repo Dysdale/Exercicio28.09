@@ -1,0 +1,8 @@
+.inputFatec {
+    border: 1px solid #000000;
+    background-color: rgb(218, 215, 215);
+    color: red;
+  }
+  ::placeholder {
+    color: red;
+  }
